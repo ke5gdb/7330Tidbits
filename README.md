@@ -1,2 +1,5 @@
 # 7330Tidbits
-A dumping ground for SCom 7330 tricks and scripts.
+
+## temp_sensors.py
+
+This script will read 1-wire temperature sensors (DS18B20) and write a user message to announce the temperature.
